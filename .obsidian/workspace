@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "c26e205f96e8e20a",
+    "type": "split",
+    "children": [
+      {
+        "id": "663b59f67be52691",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DB.md",
+            "mode": "source"
+          }
+        },
+        "group": "80caee5378272372"
+      },
+      {
+        "id": "8bff41a5c68c2700",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DB.md",
+            "mode": "preview"
+          }
+        },
+        "group": "80caee5378272372"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "934508b63f561a1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "606085e43e2ea794",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1a86381cc86995c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "66e499c9a6e08ddd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323,
+    "collapsed": true
+  },
+  "right": {
+    "id": "56522a10407e9495",
+    "type": "split",
+    "children": [
+      {
+        "id": "17a49e0634dbcbb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c93739d8d32d7efa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "663b59f67be52691",
+  "lastOpenFiles": [
+    "DB.md",
+    "img/БД_добавление_рейса.png",
+    "img/БД_билет.png",
+    "img/БД_рейс.png",
+    "img/БД_рейс_билет.png",
+    "img/БД_просмотр_рейса_пассажир.png",
+    "DB.pdf"
+  ]
+}
